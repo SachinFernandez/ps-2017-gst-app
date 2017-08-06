@@ -1,0 +1,36 @@
+
+
+h1{ 
+    background-color: #eee;
+    text-align: center;
+    font-family: Arial;
+
+}
+table {
+    border-collapse: collapse;
+    background-color: #ffffff;
+    width: 100%;
+}
+th{
+    color:#ffffff;
+    font-family: Arial;
+    padding: 3px;
+}
+td{
+    color: wheat;
+    font-family: Arial;
+    padding: 3px;
+}
+
+table, td, th {
+    border: 1px solid wheat;
+}
+.tt
+{
+    text-align: left;
+   font-family: Arial;
+   font-size: 20px;
+}
+
+
+
